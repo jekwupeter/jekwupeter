@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jekwupeter
+- 👋 Hi, I’m @Cephas Peter a software engineer
 - 👀 I’m interested in networking and backend dev
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning C language and python
 - 📫 How to reach me cephaspeter123@gmail.com
 - 
 
